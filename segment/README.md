@@ -8,7 +8,6 @@ Welcome to Impact's segment integration. The latest version of our segment funct
 
 ### Support
 
-
 Below are the supported events we can attach our function to and our current status.
 
 | Event Endpoint | Implemented | Description                                                                                        |
